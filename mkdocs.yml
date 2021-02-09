@@ -1,0 +1,9 @@
+site_name: Mario_Ferrari
+
+nav:
+
+  - 'MD': 'index.md'
+  - 'Test': 'test.txt'
+  
+  theme
+    name: readthedocs
