@@ -5,5 +5,5 @@ nav:
   - 'MD': 'index.md'
   - 'Test': 'test.txt'
   
-  theme
+  theme:
     name: readthedocs
